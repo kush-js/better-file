@@ -1,0 +1,19 @@
+{
+  "name": "better-file",
+  "version": "1.0.0",
+  "description": "An easy to use S3 wrapper for file actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kush-js/better-file.git"
+  },
+  "author": "Kushal Patel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kush-js/better-file/issues"
+  },
+  "homepage": "https://github.com/kush-js/better-file#readme"
+}
